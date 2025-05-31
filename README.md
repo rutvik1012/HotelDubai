@@ -1,30 +1,29 @@
 https://rutvik1012.github.io/HotelDubai/
 
-***🌟Features:***
+**🌟Features:**
 
-Hero section with background image and welcome message
+  Hero section with background image and welcome message
 
-Featured rooms with high-quality visuals
+  Featured rooms with high-quality visuals
 
-Services section (restaurant, pool, conference hall)
+  Services section (restaurant, pool, conference hall)
 
-Image gallery
+  Image gallery
 
-Pricing plans for different room types
+  Pricing plans for different room types
 
 
 
 **🛠️Technologies Used:**
 
-HTML5
+  HTML5
 
+  Bootstrap 5
 
-Bootstrap 5
-
-Tailwind CSS
+  Tailwind CSS
 
 
 
 **Animation:**
 
-Use lightly Animation from Animation.css
+  Use lightly Animation from Animation.css
