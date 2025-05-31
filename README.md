@@ -14,6 +14,8 @@ https://rutvik1012.github.io/HotelDubai/
 
 
 
+
+
 **🛠️Technologies Used:**
 
   HTML5
@@ -21,6 +23,8 @@ https://rutvik1012.github.io/HotelDubai/
   Bootstrap 5
 
   Tailwind CSS
+
+
 
 
 
