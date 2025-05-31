@@ -13,11 +13,16 @@ Image gallery
 Pricing plans for different room types
 
 
+
 **Technologies Used:**
 
 HTML5
+
+
 Bootstrap 5
+
 Tailwind CSS
+
 
 
 **Animation:**
