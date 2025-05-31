@@ -1,5 +1,5 @@
 https://rutvik1012.github.io/HotelDubai/
-![HotelDubai](https://github.com/user-attachments/assets/b23644f6-580d-487d-b12e-cdce2345c119)
+
 
 
 **🌟Features:**
@@ -33,3 +33,8 @@ https://rutvik1012.github.io/HotelDubai/
 **Animation:**
 
   Use lightly Animation from Animation.css
+
+
+  
+  ![HotelDubai](https://github.com/user-attachments/assets/f5886352-60e0-46b8-96d6-134a577d2505)
+
