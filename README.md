@@ -1,6 +1,6 @@
 https://rutvik1012.github.io/HotelDubai/
 
-**Features:**
+**🌟Features:**
 
 Hero section with background image and welcome message
 
@@ -14,7 +14,7 @@ Pricing plans for different room types
 
 
 
-**Technologies Used:**
+**🛠️Technologies Used:**
 
 HTML5
 
