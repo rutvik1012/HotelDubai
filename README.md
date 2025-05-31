@@ -8,10 +8,14 @@ Services section (restaurant, pool, conference hall)
 Image gallery
 Pricing plans for different room types
 
-*Technologies Used:*
+
+**Technologies Used:**
+
 HTML5
 Bootstrap 5
 Tailwind CSS
 
-*Animation:*
+
+**Animation:**
+
 Use lightly Animation from Animation.css
